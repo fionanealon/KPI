@@ -1,5 +1,5 @@
 # KPI - an investigation in an Jupyter Notebook
-AN investigation into the KPI dataset
+An investigation into the KPI dataset
 
 This repository contains primarily, a Jupyter Notebook with an investigation into dataset reflecting a real world phenomenom.
 
